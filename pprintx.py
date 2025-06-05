@@ -1,10 +1,11 @@
 '''
-6/4/2025 Day 1: 
+Day 1, June 4th 2025: 
 
 Welcome to pprint.py, straight from the Python standard library!
 
-This makes everything beautiful do you that you can debug your code
-with the utmost happiness.
+They say not to judge a book by its cover, but if you did, judge 
+it with pprint. From ugly mumbo jumbo to beautiful text straight 
+to your terminal. Debugging has never been made easier.
 '''
 
 import pprint
